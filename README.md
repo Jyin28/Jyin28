@@ -33,7 +33,7 @@ status:        🟢 Online
 
 ---
 
-## 🎒 Inventory · Tech Stack
+## 🎒 Tech Stack
 
 <p align="center">
   <b>⚔️ Main Weapons</b><br/><br/>
@@ -41,7 +41,7 @@ status:        🟢 Online
 </p>
 
 <p align="center">
-  <b>🌐 Web Spells · Frontend & Backend</b><br/><br/>
+  <b>🌐 Frontend & Backend</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=react,vite,nodejs,dotnet,fastapi,vercel&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -51,12 +51,12 @@ status:        🟢 Online
 </p>
 
 <p align="center">
-  <b>🗄️ Save Files · Databases</b><br/><br/>
+  <b>🗄️ Databases</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=supabase,sqlite,postgres&theme=dark" />
 </p>
 
 <p align="center">
-  <b>🔌 Hardware Mods · IoT</b><br/><br/>
+  <b>🔌 IoT</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi_Pico_W-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
@@ -64,7 +64,7 @@ status:        🟢 Online
 </p>
 
 <p align="center">
-  <b>🧪 Data Potions · Data Science</b><br/><br/>
+  <b>🧪 Data Science</b><br/><br/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
@@ -77,14 +77,14 @@ status:        🟢 Online
 </p>
 
 <p align="center">
-  <b>🎮 Game Dev & GUIs</b><br/><br/>
+  <b>🎮 GUIs</b><br/><br/>
   <img src="https://img.shields.io/badge/Pygame-2F7D32?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Turtle-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 <p align="center">
-  <b>🛠️ Toolbelt · Dev Tools</b><br/><br/>
+  <b>🛠️ Dev Tools</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,powershell,md,latex&theme=dark" /><br/><br/>
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
@@ -95,7 +95,7 @@ status:        🟢 Online
 </p>
 
 <p align="center">
-  <b>🛰️ Data Sources I've Raided</b><br/><br/>
+  <b>🛰️ Data Sources</b><br/><br/>
   <img src="https://img.shields.io/badge/NASA_POWER-0B3D91?style=for-the-badge&logo=nasa&logoColor=white" />
   <img src="https://img.shields.io/badge/Copernicus_CDS-003247?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -108,7 +108,7 @@ status:        🟢 Online
 
 ---
 
-## 🗺️ Quest Log · Featured Projects
+## 🗺️ Featured Projects
 
 | | Quest | Description |
 |:-:|:--|:--|
@@ -131,7 +131,7 @@ status:        🟢 Online
 
 ---
 
-## 📊 Character Stats
+## 📊 Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jyin28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=FF4F9A&icon_color=C239B3" />
@@ -144,7 +144,9 @@ status:        🟢 Online
 
 ## 🏆 Achievements Unlocked
 
-<p align="center"> <img src="https://github-profile-trophy-theta-pink-91.vercel.app/?username=Jyin28&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy-theta-pink-91.vercel.app/?username=Jyin28&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+</p>
 
 ## 📈 Activity Graph
 
