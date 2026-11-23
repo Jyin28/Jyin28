@@ -113,7 +113,7 @@ status:        🟢 Online
 | | Quest | Description |
 |:-:|:--|:--|
 | 🚀 | **[Hefesto · AguaAlerta](https://github.com/Jyin28/Hefesto)** | NASA Space Apps Hackathon: explore how temperature and rainfall changed in Costa Rica, with maps and predictions — *Python, FastAPI, Streamlit, React, MapLibre* |
-| 🏘️ | **ConviTEC** | 🔥 *Active quest*: Data Structures & Algorithms I final project |
+| 🏘️ | **ConviTEC** |  *Active*: Data Structures & Algorithms I final project |
 | 🍼 | **[Smart Crib IoT](https://github.com/Jyin28/ProyectoModelado)** | Baby monitoring system: crib, mattress and LED figures on a Raspberry Pi Pico 2 W — *MicroPython, Supabase, React, TypeScript* |
 | 📦 | **[AlmacenPrimavera](https://github.com/Jyin28/AlmacenPrimavera)** | Warehouse app: Excel merging, categorization, price helper and image-to-Excel OCR — *ASP.NET Core 8, SQLite, Tesseract.js* |
 | 🎲 | **[Monopoly](https://github.com/5amz/Monopoly)** | Monopoly with data structures and physical hardware (RFID cards, serial dice) — *C#, MicroPython* |
@@ -144,9 +144,7 @@ status:        🟢 Online
 
 ## 🏆 Achievements Unlocked
 
-<p align="center">
-  <img src="https://github-profile-trophy-theta-pink-91.vercel.app/?username=Jyin28&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
+<p align="center"> <img src="./profile/trophy.svg" alt="Trophies" /> </p>
 
 ## 📈 Activity Graph
 
