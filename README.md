@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Jyin28">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=FF4F9A&center=true&vCenter=true&width=720&lines=%E2%96%B6+Loading+player+profile...;Computer+Science+Student+%F0%9F%8E%93;C%23+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;Grinding+XP+in+Data+Structures+%E2%9A%94%EF%B8%8F;Currently+learning%3A+SQL+%2B+Claude+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2800&pause=900&color=FF4F9A&center=true&vCenter=true&width=720&lines=%E2%96%B6+Loading+player+profile...;Computer+Engineering+Student+%F0%9F%8E%93;C%23+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;Grinding+XP+in+Data+Structures+%E2%9A%94%EF%B8%8F;Currently+learning%3A+SQL+%2B+Claude+Code" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,16 +20,16 @@
 
 ```yaml
 player:        Jyin28
-class:         Computer Science Student
-level:         Undergrad (leveling up every semester)
-main_quest:    ConviTEC — Data Structures & Algorithms I final project
+class:         Computer Engineering Student
+level:         Undergraduate
+working_on:    ConviTEC — Data Structures & Algorithms I final project
 party_wanted:  Fullstack web development
 seeking_mentor: Machine Learning & Data Analysis
 training:      [SQL, Claude Code]
-status:        🟢 Online — probably debugging
+status:        🟢 Online 
 ```
 
-> *"It's not a bug, it's a hidden boss."* 👾
+> *"Nah, I'd win."* 
 
 ---
 
