@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="642" height="354" viewBox="0 0 642 354">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+             <stop offset="0" stop-color="#1A0B2E"/><stop offset="1" stop-color="#2D0B3A"/></linearGradient></defs>
+             <style>text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',sans-serif}
+             .t{font-size:14px;font-weight:700;fill:#FFFFFF}.v{font-size:12px;fill:#C9B8E8}
+             .r{font-size:13px;font-weight:800}</style>
+<rect x="1" y="1" width="148" height="168" rx="10" fill="url(#bg)" stroke="#C0C0C0" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="53.0" y="12" width="44" height="20" rx="10" fill="#C0C0C0" fill-opacity="0.2"/>
+<text class="r" x="75.0" y="27" text-anchor="middle" fill="#C0C0C0">B</text>
+
+    <g transform="translate(75.0,78)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#C0C0C0"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#EEEEEE" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#C0C0C0" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#C0C0C0" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#C0C0C0"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#C0C0C0"/>
+    </g>
+<text class="t" x="75.0" y="132" text-anchor="middle">Commits</text>
+<text class="v" x="75.0" y="152" text-anchor="middle">86 Commits</text>
+<rect x="165" y="1" width="148" height="168" rx="10" fill="url(#bg)" stroke="#CD7F32" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="217.0" y="12" width="44" height="20" rx="10" fill="#CD7F32" fill-opacity="0.2"/>
+<text class="r" x="239.0" y="27" text-anchor="middle" fill="#CD7F32">C</text>
+
+    <g transform="translate(239.0,78)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#CD7F32"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#F2D2B3" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#CD7F32" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#CD7F32" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#CD7F32"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#CD7F32"/>
+    </g>
+<text class="t" x="239.0" y="132" text-anchor="middle">Repositories</text>
+<text class="v" x="239.0" y="152" text-anchor="middle">5 Repos</text>
+<rect x="329" y="1" width="148" height="168" rx="10" fill="url(#bg)" stroke="#CD7F32" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="381.0" y="12" width="44" height="20" rx="10" fill="#CD7F32" fill-opacity="0.2"/>
+<text class="r" x="403.0" y="27" text-anchor="middle" fill="#CD7F32">C</text>
+
+    <g transform="translate(403.0,78)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#CD7F32"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#F2D2B3" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#CD7F32" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#CD7F32" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#CD7F32"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#CD7F32"/>
+    </g>
+<text class="t" x="403.0" y="132" text-anchor="middle">Stars</text>
+<text class="v" x="403.0" y="152" text-anchor="middle">1 Stars</text>
+<rect x="493" y="1" width="148" height="168" rx="10" fill="url(#bg)" stroke="#555566" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="545.0" y="12" width="44" height="20" rx="10" fill="#555566" fill-opacity="0.2"/>
+<text class="r" x="567.0" y="27" text-anchor="middle" fill="#555566">?</text>
+
+    <g transform="translate(567.0,78)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#555566"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#888899" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#555566" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#555566" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#555566"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#555566"/>
+    </g>
+<text class="t" x="567.0" y="132" text-anchor="middle">Followers</text>
+<text class="v" x="567.0" y="152" text-anchor="middle">0 Followers</text>
+<rect x="1" y="185" width="148" height="168" rx="10" fill="url(#bg)" stroke="#FFD700" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="53.0" y="196" width="44" height="20" rx="10" fill="#FFD700" fill-opacity="0.2"/>
+<text class="r" x="75.0" y="211" text-anchor="middle" fill="#FFD700">A</text>
+
+    <g transform="translate(75.0,262)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#FFD700"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#FFF3B0" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#FFD700" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#FFD700" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#FFD700"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#FFD700"/>
+    </g>
+<text class="t" x="75.0" y="316" text-anchor="middle">Pull Requests</text>
+<text class="v" x="75.0" y="336" text-anchor="middle">22 PRs</text>
+<rect x="165" y="185" width="148" height="168" rx="10" fill="url(#bg)" stroke="#CD7F32" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="217.0" y="196" width="44" height="20" rx="10" fill="#CD7F32" fill-opacity="0.2"/>
+<text class="r" x="239.0" y="211" text-anchor="middle" fill="#CD7F32">C</text>
+
+    <g transform="translate(239.0,262)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#CD7F32"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#F2D2B3" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#CD7F32" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#CD7F32" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#CD7F32"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#CD7F32"/>
+    </g>
+<text class="t" x="239.0" y="316" text-anchor="middle">Issues</text>
+<text class="v" x="239.0" y="336" text-anchor="middle">1 Issues</text>
+<rect x="329" y="185" width="148" height="168" rx="10" fill="url(#bg)" stroke="#FF4F9A" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="381.0" y="196" width="44" height="20" rx="10" fill="#FF4F9A" fill-opacity="0.2"/>
+<text class="r" x="403.0" y="211" text-anchor="middle" fill="#FF4F9A">SS</text>
+
+    <g transform="translate(403.0,262)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#FF4F9A"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#FFD1E6" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#FF4F9A" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#FF4F9A" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#FF4F9A"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#FF4F9A"/>
+    </g>
+<text class="t" x="403.0" y="316" text-anchor="middle">Languages</text>
+<text class="v" x="403.0" y="336" text-anchor="middle">9 Languages</text>
+<rect x="493" y="185" width="148" height="168" rx="10" fill="url(#bg)" stroke="#FFD700" stroke-opacity="0.6" stroke-width="2"/>
+<rect x="545.0" y="196" width="44" height="20" rx="10" fill="#FFD700" fill-opacity="0.2"/>
+<text class="r" x="567.0" y="211" text-anchor="middle" fill="#FFD700">A</text>
+
+    <g transform="translate(567.0,262)">
+      <path d="M-22,-24 h44 v10 a22,22 0 0 1 -44,0 z" fill="#FFD700"/>
+      <path d="M-16,-20 h8 v8 a10,10 0 0 0 4,8 a16,16 0 0 1 -12,-16 z" fill="#FFF3B0" opacity="0.7"/>
+      <path d="M-22,-20 h-8 a9,9 0 0 0 9,14" fill="none" stroke="#FFD700" stroke-width="4"/>
+      <path d="M22,-20 h8 a9,9 0 0 1 -9,14" fill="none" stroke="#FFD700" stroke-width="4"/>
+      <rect x="-4" y="6" width="8" height="10" fill="#FFD700"/>
+      <rect x="-14" y="16" width="28" height="7" rx="2" fill="#FFD700"/>
+    </g>
+<text class="t" x="567.0" y="316" text-anchor="middle">Experience</text>
+<text class="v" x="567.0" y="336" text-anchor="middle">2 Years</text>
+</svg>
