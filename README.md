@@ -144,11 +144,9 @@ status:        🟢 Online
 
 ## 🏆 Achievements Unlocked
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jyin28&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
+<p align="center"> <img src="https://github-profile-trophy-theta-pink-91.vercel.app/?username=Jyin28&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" /> </p>
 
-## 📈 XP Gained Over Time
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyin28&bg_color=00000000&color=FF4F9A&line=C239B3&point=FFFFFF&area=true&area_color=7F00FF&hide_border=true" />
@@ -156,21 +154,21 @@ status:        🟢 Online
 
 ---
 
-## 🍥 Side Quests · Things I Like
+##  Things I Like
 
 <!-- Edit these with your favorite games, anime and music! -->
 <table align="center">
   <tr>
-    <td align="center" width="25%">🎮<br/><b>Gaming</b><br/><sub>Always one more match</sub></td>
-    <td align="center" width="25%">🍥<br/><b>Anime & Manga</b><br/><sub>One more episode… at 3 AM</sub></td>
-    <td align="center" width="25%">🎧<br/><b>Music</b><br/><sub>Lo-fi beats while coding</sub></td>
-    <td align="center" width="25%">🌌<br/><b>Space</b><br/><sub>NASA Space Apps veteran</sub></td>
+    <td align="center" width="25%">🎮<br/><b>Gaming</b><br/><sub>Valo-Minecraft</sub></td>
+    <td align="center" width="25%">🍥<br/><b>Anime</b><br/><sub>Watching Jojo's, HxH, Gachiakuta, Yani Neko, Seihantai</sub></td>
+    <td align="center" width="25%">🎧<br/><b>Music</b><br/><sub>Kendrick, Travis, Bad Bunny</sub></td>
+    <td align="center" width="25%">🌌<br/><b>Larp</b><br/><sub>Prob Claudemaxxing atm</sub></td>
   </tr>
 </table>
 
 ---
 
-## 🐍 Boss Fight · Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
